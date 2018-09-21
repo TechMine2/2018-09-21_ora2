@@ -16,7 +16,6 @@ namespace GitConsoleApp01
             int min = 0;
             int db = 10;
             bool asd = false;
-
             Console.WriteLine("Hány darab számot szeretne beírni?");
             try
             {
