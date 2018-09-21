@@ -17,6 +17,7 @@ namespace GitConsoleApp01
             int db = 10;
             bool asd = false;
             Console.WriteLine("Hány darab számot szeretne beírni?");
+
             try
             {
                 db = Convert.ToInt32(Console.ReadLine());
